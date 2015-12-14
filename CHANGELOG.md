@@ -4,6 +4,9 @@
 Features
 - Increased batch action checkbox click area (https://github.com/varvet/godmin/pull/183)
 
+Bug fixes:
+- Fixes so an empty string is not sent for multiselect filters (https://github.com/varvet/godmin/pull/169)
+
 Other
 - Fixes a deprecation warning on Rails 4.2.5.1 (https://github.com/varvet/godmin/pull/188)
 
